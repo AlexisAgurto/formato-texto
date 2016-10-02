@@ -1,0 +1,25 @@
+.titulo{
+	font-family: Freehand521 BT; 
+  font-size: 400%;
+  font-style: oblique; 
+  text-align: center;
+  color: #0000FF;
+
+}
+.titulo2{
+	font-family: Broadway; 
+  font-size: 200%;
+  font-style: oblique; 
+  text-align: center;
+}
+.p{
+	font-family: "Homer Simpson", cursive;
+	background: #E6E6E6;
+}
+body{
+	background: #9FF781;
+}
+.datos{
+	font-family: "Homer Simpson", cursive;
+	
+}
